@@ -7,7 +7,7 @@ var path = require('path');
 
 // set this variable to the path to your texvccheck binary for additional
 // sanity-checking against the ocaml texvccheck.
-var TEXVCBINARY=0; // "../../Math/texvccheck/texvccheck";
+var TEXVCBINARY = 0; //"../mediawiki/extensions/Math/texvccheck/texvccheck";
 
 var tryocaml = function(input, output, done, fixDoubleSpacing) {
     if (!TEXVCBINARY) { return done(); }
@@ -173,10 +173,7 @@ describe('All formulae from en-wiki:', function() {
     this.timeout(0);
 
     // read test cases
-    var formulae =
-        fs.readFileSync(path.join(__dirname, 'en-wiki-formulae.txt'), 'utf8').
-        split(/\n+/g);
-
+    var formulae =  require('./en-wiki-formulae.json');
     // group them into chunks
     var grouped = (function(arr, n) {
         var result = [], group = [];
@@ -192,19 +189,23 @@ describe('All formulae from en-wiki:', function() {
         result.push(group);
         return result;
     })(formulae, CHUNKSIZE);
-
+    console.log(grouped.length);
     // create a mocha test case for each chunk
     grouped.forEach(function(group) {
         it(group[0] + ' ... ' + group[group.length-1], function() {
             group.forEach(function(f) {
-                var result = texvcjs.check(f);
+                //var time = process.hrtime();
+                var result = texvcjs.check(f.input);
+                //time = process.hrtime(time);
+                //console.log('benchmark took %d seconds and %d nanoseconds', time[0], time[1]);
+                //tryocaml(f,result.output,function(){},true);
                 var good = (result.status === '+');
-                if (known_bad[f]) {
-                    assert.ok(!good, f);
+                if (known_bad[f.input]) {
+                    assert.ok(!good, f.input);
                 } else {
-                    assert.ok(good, f);
+                    assert.ok(good, f.input);
                     assert.equal(texvcjs.check(result.output).status, '+',
-                                 f+' -> '+result.output);
+                        f.input +' -> '+result.output);
                 }
             });
         });
