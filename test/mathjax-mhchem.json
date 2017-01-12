@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "input": "\\ce{CO2 + C -> 2 CO}",
+    "texvcjs": "\\ce{CO2 + C -> 2 CO}",
+    "ignore": true
+  },
+  {
+    "id": 2,
+    "input": "\\ce{Hg^2+ ->[I-] HgI2 ->[I-] [Hg^{II}I4]^2}",
+    "texvcjs": "\\ce{Hg^2+ ->[I-] HgI2 ->[I-] [Hg^{II}I4]^2}",
+    "ignore": true
+  },
+  {
+    "id": 3,
+    "input": "\\ce{H2O}",
+    "texvcjs": "{\\ce {H2O}}"
+  },
+  {
+    "id": 4,
+    "input": "\\ce{Fe^{II}Fe^{III}2O4}",
+    "texvcjs": "\\ce{Hg^2+ ->[I-] HgI2 ->[I-] [Hg^{II}I4]^2}",
+    "ignore": true
+  },
+  {
+    "id": 5,
+    "input": "\\ce{NaOH(aq,\\infty)}",
+    "texvcjs": "\\ce{NaOH(aq,\\infty)}",
+    "ignore": true
+  }
+]
