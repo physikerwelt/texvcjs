@@ -1,0 +1,657 @@
+# Format:
+#   <hash>:
+#     formula: <formula-src>
+#     type:    <formula-type>
+#     error:   <render-error-text>
+#
+fdad13f3f961dc789e87c75f0e4d6f69301d0663:
+  formula: "{\\displaystyle {\\text{«\_}}N_{i}{\\text{\_»}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+fd9c2c22b797bcff02e77696e401ce8ccf37785f:
+  formula: >-
+    {\displaystyle K_{p}={\frac {\ce {p_{T}(4\alpha ^{2})}}{(1+\alpha )(1-\alpha
+    )}}={\frac {\ce {p_{T}(4\alpha ^{2})}}{1-\alpha ^{2}}}}
+  type: chem
+  error:
+    - 'TeX parse error: Extra close brace or missing open brace'
+fcc7a9248d2c70f919ebdbbec930d632c7155ec6:
+  formula: "{\\displaystyle {\\bigl (}{\\text{基\_\_本\_\_式}}{\\bigr )}}"
+  type: tex
+  error: 'Error: socket hang up'
+f9fe543fdc45a9f64ab2d32c7ec1d5804902c5e9:
+  formula: "{\\frac {a}{c}}={\\frac {e}{a}}{\\mbox{\_\_\_\_\_\_e\_\_\_\_\_\_}}{\\frac {b}{c}}={\\frac {d}{b}}.\\,"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+f9b644decb55bd121b7cbafd78fbb39177847dd9:
+  formula: "{\\displaystyle 6,62\\;10^{-34}\\;J\\cdot s{\\text{\_»}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+f8e89c80794e9acc1174b1ae2b1dc2aae8eb2c74:
+  formula: "a^{2}=c\\times e{\\mbox{\_e\_}}b^{2}=c\\times d."
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+f7d3f26a51303f74350d9e74f5b0b9ebb7ea015a:
+  formula: "{\\displaystyle {\\text{«\_}}N_{i}{\\text{\_»}}}"
+  type: tex
+  error: 'Error: socket hang up'
+f6f564f1f1884f7ee0fc9146632bc8f38735a2ef:
+  formula: "{\\displaystyle B\\in {\\mathcal {A}}_{\\mu }'\\iff {\\hbox{ il existe }}A_{1}\\in {\\mathcal {A}}{\\hbox{\_et }}A_{2}\\in {\\mathcal {A}}{\\hbox{ avec }}A_{1}\\subset B\\subset A_{2}{\\hbox{ et }}\\mu (A_{2}\\setminus A_{1})=0}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+f5e8c1193b86ab712666f636c8be2951e0b023a2:
+  formula: "{\\displaystyle {\\text{«\_}}{\\mathcal {E}}(f,\\,x)=}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+f443ef73b5357e4b2c20670aaf0b3ea961140446:
+  formula: "{\\displaystyle {\\text{«\_}}n{\\text{\_»}}}"
+  type: tex
+  error: 'Error: socket hang up'
+f2aba1124cdc67b8e237bcf291cc482d39d29824:
+  formula: "{\\displaystyle ({\\text{基\_\_本\_\_式\_\_\_\_\_}}}"
+  type: tex
+  error: 'Error: socket hang up'
+eca391976a2a532e2fcf36737e161e7cdb080250:
+  formula: "{\\displaystyle {\\text{«\_}}n=n(\\lambda _{0}){\\text{\_»}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+e8454f06ab1cb94d599421595ece0268b834ee05:
+  formula: "{\\displaystyle ({\\text{基\_\_本\_\_式\_\_\_\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+e841e14fb2924b2d2160e2d65d8a574fa4f5ffc6:
+  formula: "{\\displaystyle \\operatorname {atan2} (0,x)={\\begin{cases}0&\\qquad x>0\\\\{\\text{non\_défini}}&\\qquad x=0\\\\\\pi &\\qquad x<0\\\\\\end{cases}}}"
+  type: tex
+  error: 'Error: socket hang up'
+e583ee49f8669565784a296bdd1e50ca2889b7b7:
+  formula: "{\\displaystyle {\\text{«\_}}\\lambda _{0,\\,{\\text{bleu}}}\\in \\left[0,435\\;\\mu m\\,{\\text{;}}\\,0,465\\;\\mu m\\right]}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+e586d4775345c21e303fba8060b3aeea00da233c:
+  formula: "{\\displaystyle ({\\text{基\_本 \_式\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+e51455c47475282292c131bcc1399a002a7edac0:
+  formula: >-
+    {\displaystyle {\bar {r}}={\begin{cases}R_{C}\sin(r/R_{C})&{\text{fuer
+    positive Kruemmung}}\\r&{\text{für Krümmung
+    }}0\\R_{C}\sinh(r/R_{C})&{\text{für negative Krümmung}}\end{cases}}}
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+e2bd163baedf8e711d9c8536a5e65f27315bf32d:
+  formula: "\\operatorname {atan2} (0,x)={\\begin{cases}0&\\qquad x>0\\\\{\\text{non\_defini}}&\\qquad x=0\\\\\\pi &\\qquad x<0\\\\\\end{cases}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+e23134dd38781e21ebb26e60e668e200861d1624:
+  formula: "{\\displaystyle ({\\text{\_\_基\_\_本\_\_式\_\_\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+def01d99863e460010d55791ead73fed7e057afe:
+  formula: "{\\displaystyle \\quad {\\text{«\_}}\\left\\langle {\\mathcal {P}}_{({\\mathcal {S}}_{M})}\\right\\rangle ={\\mathcal {E}}(M)\\;S{\\text{\_».}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+dc1671cf3b6e7c795a8e68111760e9236dd336d9:
+  formula: "{\\displaystyle ({\\text{基\_\_本\_\_式\_\_\_\_\_\_\_\_\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+d9e3df86aec6ceddb38af4bdd9a99efe1af95833:
+  formula: "\\operatorname {atan2} (0,x)={\\begin{cases}0&\\qquad x>0\\\\{\\text{non\_défini}}&\\qquad x=0\\\\\\pi &\\qquad x<0\\\\\\end{cases}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+d8d4092a27406a2f149441254969fd9975341aa1:
+  formula: '{\displaystyle {\ce {^{(}16)O}}}'
+  type: chem
+  error:
+    - 'TeX parse error: Missing argument for \text'
+d7814edef3f8bb132c4438529eb961e3aadfb834:
+  formula: "{\\displaystyle {\\bigl (}{\\text{基\_\_本\_\_式}}}"
+  type: tex
+  error: 'Error: socket hang up'
+d63562ec9b6fbf7aa0559555ee81a99642524165:
+  formula: "{\\displaystyle {\\text{«\_}}\\!+\\!{\\text{\_»}}\\;}"
+  type: tex
+  error: 'Error: socket hang up'
+d5b38a75ba077e1cd487d88f778e3ff432120a60:
+  formula: '{\textstyle {\ce {^{3}_{infinity}[Au2(\mu -NH2)(\mu _{3}-NH)2]Cl}}}'
+  type: chem
+  error:
+    - 'TeX parse error: Missing argument for \text'
+d1fadceb531b8bf4e847266516ae662101ecafb7:
+  formula: "{\\displaystyle {\\text{«\_}}g_{i}{\\text{\_»}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+d0ceb0dd7b8e1a128cfdfb06568c9d4a2111b106:
+  formula: "{\\displaystyle ({\\text{基\_本\_式\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+cfea0a3b68012f60ae655676752d50387f62aa2a:
+  formula: "{\\displaystyle ({\\text{\_\_基\_\_本\_\_式\_\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+cca6f42037be9d67072984e7a346df342504d40c:
+  formula: "{\\displaystyle T{\\text{\_»}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+cb2720edfc9fa96e21345fbe22ca8f3b27fad493:
+  formula: >-
+    D_{p}=\{a/b\in \mathbb {Q} :{\text{mcd}}(a,b)=1,b=p^{k}{\text{ para algún
+    }}k\geq 0.\}.
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+c73adf16dcfe1a3383d6908131c80330cc2276b5:
+  formula: '{\textstyle {\ce {^{3}_{in}[Au2(\mu -NH2)(\mu _{3}-NH)2]Cl}}}'
+  type: chem
+  error:
+    - 'TeX parse error: Missing argument for \text'
+c68b4757051c2f6bea483a4893639ed244d47909:
+  formula: "{\\displaystyle {\\text{«\_}}n}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+c566671f1659605e97e1a50103deadcf165aa1ec:
+  formula: "{\\displaystyle ({\\text{\_\_基\_\_本\_\_式\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+c48d0f6f2606c544070200f734ee1c10477f8f66:
+  formula: "{\\displaystyle {\\text{«\_}}\\lambda _{0,\\,{\\text{bleu}}}\\in \\left[0,435\\;\\mu m\\,{\\text{;}}\\,0,465\\;\\mu m\\right]{\\text{\_»}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+c3c05978a06f16a82c7b3d04efd2662a9fde3fd7:
+  formula: "{\\displaystyle \\alpha <10^{-1}\\;rad{\\text{\_».}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+c37c33f7dedba1342c5ec8141862770757931140:
+  formula: "{\\displaystyle {\\text{基\_\_本\_\_式\_}}}"
+  type: tex
+  error: 'Error: socket hang up'
+c113550ae4f85fb451b495695b33d56fb0416ba1:
+  formula: '{\displaystyle {\ce {^{3}_{infinity}[Au2(\mu -NH2)(\mu _{3}-NH)2]Cl}}}'
+  type: chem
+  error:
+    - 'TeX parse error: Missing argument for \text'
+c093ecba2aa7a52a3694c72f9141843a62edfe13:
+  formula: "{\\displaystyle {\\text{«\_}}{\\mathcal {A}}={\\sqrt {{\\mathcal {A}}_{1}^{2}+{\\mathcal {A}}_{2}^{2}+2\\,{\\mathcal {A}}_{1}\\,{\\mathcal {A}}_{2}\\,\\cos(\\Delta \\varphi )}}{\\text{\_»}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+bfa1a433ddacf1bf3e50416e37b6bb7a4cdaa71d:
+  formula: "{\\displaystyle {\\text{«\_}}{\\mathcal {E}}(f,\\,x)\\,df}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+be7b71fe7d221d2b3b5e327c817e9a4c50e9dac9:
+  formula: '{\displaystyle {\ce {(CO_{3}{}^{2-})}}}'
+  type: chem
+  error:
+    - 'TeX parse error: Extra close brace or missing open brace'
+bb20707faa4433ad5bb8cd241e8a2c0d7ea4460d:
+  formula: "{\\displaystyle {\\text{«\_}}\\lambda _{0,\\,{\\text{vert}}}\\in \\left[0,500\\;\\mu m\\,{\\text{;}}\\,0,560\\;\\mu m\\right]{\\text{\_»}}}"
+  type: tex
+  error: 'Error: socket hang up'
+b9f7f6f48261aaa84ff54274e6fcd7d0fc92212f:
+  formula: "{\\displaystyle {\\text{«\_}}s(x,\\,t)=\\displaystyle \\int _{f_{1}}^{f_{2}}A(f,\\,x)\\,\\cos \\!\\left[2\\,\\pi \\,f\\,t+\\varphi (f,\\,x)\\right]df}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+b975271ce9cf5ae24665832986dde4aa3d481d86:
+  formula: >-
+    {\displaystyle T_{\ce {A}}={\ce {[A]+\beta _{1}[A][H]+\beta
+    _{2}[A][H]^{2}}}\,}
+  type: chem
+  error:
+    - 'TeX parse error: Missing superscript or subscript argument'
+b7790f7653a2a8fc07bdc808eada8974e56653f6:
+  formula: "{\\displaystyle \\angle POS=m{\\text{ arcminutes,\_ }}s{\\text{ arcseconds,\_ }}t{\\text{ sixtieths of an arcsecond}}}"
+  type: tex
+  error: 'Error: socket hang up'
+b45fcf2847f41e21e23527180dc08961d695bfb8:
+  formula: "{\\displaystyle {\\text{Effektivit\_ ät}}={\\frac {\\text{Ergebnis}}{\\text{Ziel}}}}"
+  type: tex
+  error: 'Error: socket hang up'
+b40970a50733ecd629f414dd39e60c06968ec444:
+  formula: "{\\displaystyle {\\text{«\_}}I\\propto \\left[{\\mathcal {P}}_{\\text{lum, moy}}\\right]^{n}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+b36e4b5e262a005d1ed6a2d68e1f9d7caf1643e6:
+  formula: >-
+    {\displaystyle T_{\ce {H}}={\ce {[H]+\beta _{1}[A][H]+2\beta
+    _{2}[A][H]^{2}}}-K_{w}[{\ce {H}}]^{-1}\,}
+  type: chem
+  error:
+    - 'TeX parse error: Missing superscript or subscript argument'
+b36d33e239d45a54c81b4643228ec54d0e91e778:
+  formula: "{\\displaystyle {\\frac {a}{c}}={\\frac {e}{a}}{\\mbox{\_\_\_\_\_\_e\_\_\_\_\_\_}}{\\frac {b}{c}}={\\frac {d}{b}}.\\,}"
+  type: tex
+  error: 'Error: socket hang up'
+b0c4a0ce2a8d4d8147683d2b89ac358001f0c863:
+  formula: "{\\displaystyle {\\text{«\_}}n{\\text{\_»}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+b0f1e9d2f7e9a2c48f4bdf42417291e90e30f6e0:
+  formula: "{\\displaystyle \\lambda _{0,\\,{\\text{rouge}}}\\in \\left[0,620\\;\\mu m\\,{\\text{;}}\\,0,780\\;\\mu m\\right]{\\text{\_»}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+af02ef8197334b40174620e2f7280d39f7511979:
+  formula: "{\\displaystyle {\\text{«\_}}\\alpha <10^{-1}\\;rad}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+ac8341dad1544ebf1aeb538f61c0eb70a2405d74:
+  formula: "{\\displaystyle ({\\text{基\_\_本\_\_式}}}"
+  type: tex
+  error: 'Error: socket hang up'
+ac8f92fea6d0858876c2d71ac4f7c01d2012c8c9:
+  formula: "{\\displaystyle (m,n,u)\\in \\mathbb {N} _{^{(>0)}}\\!\\!\\times \\!\\mathbb {N} _{^{(>0)}}\\!\\times \\!{\\mathfrak {U}},\\,f_{[m,n]}:={\\begin{cases}\\{(i,u(i))\\mid i\\!\\in \\!\\{i\\}_{i=m}^{n}\\},{\\text{ wenn }}m\\leq n\\\\{\\text{\_ sonst nicht definiert}}\\end{cases}}}"
+  type: tex
+  error: 'Error: socket hang up'
+a7d1af27ea1010c94dad8a6e5c41068eba2f4e94:
+  formula: "{\\displaystyle {\\text{«\_}}h\\simeq 6,62\\;10^{-34}\\;J\\cdot s}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+a6a89298295e641f24e125b86531d61914294206:
+  formula: "{\\displaystyle {\\text{\_}}v}"
+  type: tex
+  error: 'Error: socket hang up'
+a513ff18df64145177eca99c9ac734f8dd31ddd0:
+  formula: "{\\displaystyle {\\text{«\_}}g_{i}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+a4dcbcbecd20982b0bfeb107146fbcfe0587bbdd:
+  formula: "{\\displaystyle {\\text{«\_}}t-{\\dfrac {PM}{c}}{\\text{\_»}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+a49a95bd993b334a44ab11fc54b354e0e6241b3b:
+  formula: "{\\displaystyle {\\text{«\_}}\\lambda _{0,\\,{\\text{rouge}}}\\in \\left[0,620\\;\\mu m\\,{\\text{;}}\\,0,780\\;\\mu m\\right]{\\text{\_»}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+a2f243121137340e0c7d8bd20438b72e445636b3:
+  formula: "{\\displaystyle ({\\text{基 \_本 \_式\_ }})}"
+  type: tex
+  error: 'Error: socket hang up'
+9fd1af0e1267b31470926d964e6a0624cb58734d:
+  formula: "{\\displaystyle {\\text{«\_}}\\lambda _{0,\\,{\\text{jaune}}}\\in \\left[0,560\\;\\mu m\\,{\\text{;}}\\,0,590\\;\\mu m\\right]}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+9fc098cfd375e8db18f6c059dc570781b141ea59:
+  formula: "{\\displaystyle S_{1}{\\text{ et\_}}S_{2}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+9e3d6a9b09dc5b3add085389377cbb183493b8fb:
+  formula: "S_{1}{\\text{ et\_}}S_{2}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+9ca30deca4c34d0e00b99491991add05000b24e3:
+  formula: "{\\displaystyle {\\text{«\_}}T{\\text{\_»}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+9b7c7579a518c1e7a257c03881d8c9589032e764:
+  formula: "{\\displaystyle a^{2}=c\\times e{\\mbox{\_e\_}}b^{2}=c\\times d.}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+9acde0a6e983410e1455f8783cdb608493e42fbd:
+  formula: "{\\displaystyle {\\text{«\_}}{\\dfrac {\\left[A(x_{\\text{récepteur}})\\right]^{2}}{2}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+9ac58fc9538d2c66b588b0a1c1effd09dc632c75:
+  formula: "{\\displaystyle {\\left({\\frac {\\partial \\left\\langle n\\right\\rangle }{\\partial t}}\\right)}_{decay}=-{\\text{\_}}{\\frac {\\left\\langle n\\right\\rangle -{\\left\\langle n\\right\\rangle }^{0}}{\\tau }},}"
+  type: tex
+  error: 'Error: socket hang up'
+9894f28fe7ffe735d8bb78b484dc404d3895bf8d:
+  formula: "{\\displaystyle {\\text{«\_}}t-{\\dfrac {PM}{c}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+93d6272c5e7d9b06653fb2929091683c007ae507:
+  formula: "{\\displaystyle {\\text{«\_}}N_{i}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+93b315968d5a2ada31aa6d1df0224954bed8a8bc:
+  formula: "{\\displaystyle \\operatorname {atan2} (0,x)={\\begin{cases}0&\\qquad x>0\\\\{\\text{non\_defini}}&\\qquad x=0\\\\\\pi &\\qquad x<0\\\\\\end{cases}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+93089934c1a15bdb9ad42135f7320cd56a4c12ee:
+  formula: "{\\displaystyle {\\bigl (}{\\begin{smallmatrix}x&y\\\\z&v\\end{smallmatrix}}{\\bigr )}{\\text{基\_\_本\_\_式\_\_\_\_\_}}}"
+  type: tex
+  error: 'Error: socket hang up'
+9155359be3c6b9630291d54087fc1dcfd6ca037c:
+  formula: "{\\displaystyle ({\\text{基\_\_本\_\_式\_\_\_\_\_.}})}"
+  type: tex
+  error: 'Error: socket hang up'
+8efdd9599d9af9bbfedeecb0d2c25d9cfb04628f:
+  formula: "{\\displaystyle ({\\text{基\_\_本\_\_式\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+8b64062e54a09782104e5b575480823b7ab6cd6c:
+  formula: "{\\frac {\\text{වස්තුවේ ඝනත්වය}}{\\text{තරලයේ ඝනත්වය}}}={\\frac {\\text{බර}}{{\\text{බර}}-{\\text{දෘශ්‍ය\_බර}}}}\\,"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+84f716b4df4124b61b120f655cf8e206fdf406e9:
+  formula: "{\\displaystyle {\\frac {\\text{වස්තුවේ ඝනත්වය}}{\\text{තරලයේ ඝනත්වය}}}={\\frac {\\text{බර}}{{\\text{බර}}-{\\text{දෘශ්‍ය\_බර}}}}\\,}"
+  type: tex
+  error: 'Error: socket hang up'
+8490c840aefa56e8f2e16dee44977dd8d4d61fd2:
+  formula: '{\displaystyle {\ce {(NO3{}^{-})}}}'
+  type: chem
+  error:
+    - 'TeX parse error: Extra close brace or missing open brace'
+84511713026ad22b026857d601f50ea5ca83ec6d:
+  formula: "B\\in {\\mathcal {A}}_{\\mu }'\\iff {\\hbox{ il existe }}A_{1}\\in {\\mathcal {A}}{\\hbox{\_et }}A_{2}\\in {\\mathcal {A}}{\\hbox{ avec }}A_{1}\\subset B\\subset A_{2}{\\hbox{ et }}\\mu (A_{2}\\setminus A_{1})=0"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+838e31950907ebdafca0deb3e6661d984e6ff883:
+  formula: "{\\displaystyle {\\text{基\_\_本\_\_式\_\_}}}"
+  type: tex
+  error: 'Error: socket hang up'
+83392cfd7a79f1bc289eb18ed510b9e92df1c230:
+  formula: "{\\displaystyle {\\text{«\_}}\\alpha <10^{-1}\\;rad{\\text{\_».}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+82af862706af41ec408f86814f5dc081e2764ad2:
+  formula: "{\\displaystyle {\\text{«\_}}\\lambda _{0,\\,{\\text{jaune}}}\\in \\left[0,560\\;\\mu m\\,{\\text{;}}\\,0,590\\;\\mu m\\right]{\\text{\_»}}}"
+  type: tex
+  error: 'Error: socket hang up'
+817437c25a2ccf344692c9d33c3d3487214c1fed:
+  formula: "{\\displaystyle {\\text{基\_\_本\_\_式\_\_\_\_}}}"
+  type: tex
+  error: 'Error: socket hang up'
+801493e21324da8609243ebf52efd2eb6d40da48:
+  formula: >-
+    {\displaystyle \int
+    _{S_{0}}^{S}F(s)\,ds=W_{\text{Auszug}}^{\text{Schütze}}=W_{\text{potentiell}}^{\text{Bogen}}=W_{\text{kinetisch}}^{\text{Pfeil}}\cdot
+    {\frac {1}{\eta }}={\tfrac {1}{2}}\ m\ v^{2}}
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+7e90a0e233fe6a1b83933fc10e58025b07ebc60b:
+  formula: >-
+    {\displaystyle \left({\frac {1}{2}}m_{1}v_{1}^{2}+{\frac
+    {1}{2}}m_{2}v_{2}^{2}\right)_{\text{après}}=\left({\frac
+    {1}{2}}m_{1}v_{1}^{2}+{\frac {1}{2}}m_{2}v_{2}^{2}\right)_{\text{avant}}}
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+7d1e09cc90cc7b21842ed930134923f1b80de89b:
+  formula: "{\\displaystyle {\\frac {\\text{වස්තුවේ ඝනත්වය}}{\\text{තරලයේ ඝනත්වය}}}={\\frac {\\text{බර}}{{\\text{බර}}-{\\text{දෘශ්‍ය\_බර}}}}\\,}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+7bb1188683031d14ddcfdab1cd8911777e995843:
+  formula: "{\\displaystyle ({\\text{基\_\_本\_\_式}})}"
+  type: tex
+  error: 'Error: socket hang up'
+7b0e6e8c3d7bd1a0b6c901d16ca38b6b082c80cb:
+  formula: "{\\displaystyle {\\text{Effektivit\_ ä t}}={\\frac {\\text{Ergebnis}}{\\text{Ziel}}}}"
+  type: tex
+  error: 'Error: socket hang up'
+78ebf2371f863169e133a6c383f9353faff26382:
+  formula: "{\\displaystyle ({\\text{基\_\_本\_式\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+77e45d8cb6b1140a55197a156eb9e8beb7efbf46:
+  formula: "{\\displaystyle ({\\text{基\_\_本\_\_式\_\_\_\_\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+777dfca4b77d9a7cda42296a244a41a8dd1ca7fd:
+  formula: "{\\displaystyle {\\text{«\_}}h\\simeq }"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+7715a3e6f15f3a53774ded4bf7e348cd331103f6:
+  formula: "{\\displaystyle \\quad {\\text{«\_}}{\\mathcal {E}}(x)=\\displaystyle \\int _{\\lambda _{0,\\,2}}^{\\lambda _{0,\\,1}}{\\mathcal {E}}(\\lambda _{0},\\,x)\\,d\\lambda _{0}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+75e978a2da9facba3ba48709ba7438ec1effb856:
+  formula: "{\\displaystyle {\\mathcal {A}}={\\sqrt {{\\mathcal {A}}_{1}^{2}+{\\mathcal {A}}_{2}^{2}+2\\,{\\mathcal {A}}_{1}\\,{\\mathcal {A}}_{2}\\,\\cos(\\Delta \\varphi )}}{\\text{\_»}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+71b905ee3d997908e9a793d5d6c6478fc5038edf:
+  formula: "{\\displaystyle {\\text{Effektivit\_ät}}={\\frac {\\text{Ergebnis}}{\\text{Ziel}}}}"
+  type: tex
+  error: 'Error: socket hang up'
+6d56144cf367d5475e10c8ec1055b45acdf6fed2:
+  formula: "{\\displaystyle a^{2}=c\\times e{\\mbox{\_\_\_\_\_\_e\_\_\_\_\_\_}}b^{2}=c\\times d.\\,}"
+  type: tex
+  error: 'Error: socket hang up'
+6cac44f2b15eca5c44e92c9e61a86b116ad52221:
+  formula: "{\\displaystyle {\\text{«\_}}\\lambda _{0,\\,{\\text{bleu}}}\\in \\left[0,435\\;\\mu m\\,{\\text{;}}\\,0,465\\;\\mu m\\right]{\\text{\_»}}}"
+  type: tex
+  error: 'Error: socket hang up'
+6bce7c47e4586031d80d63a45ad2a894382acb89:
+  formula: "{\\displaystyle n=n(\\lambda _{0}){\\text{\_»}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+68de79721db775479e1e3874832cbf1b67325994:
+  formula: "{\\displaystyle ({\\text{基 \_本 \_式\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+686ee85e7577d2123d680de6cbc45494ea7e7b2d:
+  formula: "{\\displaystyle \\quad \\left\\langle {\\mathcal {P}}_{({\\mathcal {S}}_{M})}\\right\\rangle ={\\mathcal {E}}(M)\\;S{\\text{\_».}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+65827eab5c8381e7634147ee8e71195f35559047:
+  formula: "{\\displaystyle ({\\text{\_基\_\_本\_\_式\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+607cb53a60f8d14b8a1abc94b8bd024348dcd054:
+  formula: "{\\displaystyle ({\\text{\_基\_\_本\_\_式\_\_\_\_\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+601f5678b6dda2491607df69975f6baeea82d3b8:
+  formula: "{\\displaystyle B\\in '{\\mathcal {A}}_{\\mu }'\\iff {\\hbox{ il existe }}A_{1}\\in {\\mathcal {A}}{\\hbox{\_et }}A_{2}\\in {\\mathcal {A}}{\\hbox{ avec }}A_{1}\\subset B\\subset A_{2}{\\hbox{ et }}\\mu (A_{2}\\setminus A_{1})=0}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+5e4c6b9b5574b489003ccecb881e9b769661fb9d:
+  formula: '{\displaystyle {\ce {^{3}_{infinity}[Au2(\mu -NH2)(\mu 3-NH)2]Cl}}}'
+  type: chem
+  error:
+    - 'TeX parse error: Missing argument for \text'
+5bced36ee54e8345b4908a42cdd538b47995cb71:
+  formula: '{\displaystyle {\ce {^{3}^{227}[Au2(\mu -NH2)(\mu 3-NH)2]Cl}}}'
+  type: chem
+  error:
+    - 'TeX parse error: Missing argument for \text'
+5779734f60b4ae4a1825ac39787dd39df13048ab:
+  formula: >-
+    {\displaystyle T_{\ce {A}}=[{\ce {A}}]+\sum _{i}{\ce {p_{i}\beta
+    _{i}[A]^{p_{i}}[B]^{q_{i}}}}}
+  type: chem
+  error:
+    - 'TeX parse error: Missing superscript or subscript argument'
+55c4d728c6be09ee67e909dbed82f64bca693201:
+  formula: "{\\displaystyle a^{2}=c\\times e{\\mbox{\_e\_}}b^{2}=c\\times d.}"
+  type: tex
+  error: 'Error: socket hang up'
+5529a3d926f43a6508f1b429df32eb6a2ff12f63:
+  formula: "{\\displaystyle ({\\text{\_\_基\_\_本\_式\_\_\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+547315f8f0d01588ade75a404f85d69f2ea269c3:
+  formula: '{\displaystyle {\ce {^{3}[Au2(\mu -NH2)(\mu 3-NH)2]Cl}}}'
+  type: chem
+  error:
+    - 'TeX parse error: Missing argument for \text'
+545de0228a0f361f77462df4264f3ce4e52b6fe6:
+  formula: "{\\displaystyle ({\\text{\_\_基\_\_本\_\_\_\_式\_\_\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+534d09b6005a03b4e10eac03f446cb4959d867a8:
+  formula: "a^{2}=c\\times e{\\mbox{\_\_\_\_\_\_e\_\_\_\_\_\_}}b^{2}=c\\times d.\\,"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+51f97571bd955e9a5e01860862b067d3864aac96:
+  formula: "{\\displaystyle \\quad {\\mathcal {E}}(M)={\\dfrac {\\left\\langle {\\mathcal {P}}_{({\\mathcal {S}}_{M})}\\right\\rangle }{S}}{\\text{\_».}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+51d6f69afd81920c0bdff7c665fb2a243a2dfa33:
+  formula: "{\\displaystyle {\\overrightarrow {x_{s}}}_{1/2}={\\overrightarrow {M_{1}}}+{\\overrightarrow {D_{1}}}\\pm l\\cdot {\\overrightarrow {e}}\\quad {\\text{\_Unter der Bedingung, dass}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+516420c4bcbe90fbd44d47944140b41d1a81f069:
+  formula: "{\\displaystyle {\\text{基\_\_本\_\_式}}}"
+  type: tex
+  error: 'Error: socket hang up'
+516822e9635923d43e2fc7f3275e638302494520:
+  formula: "{\\displaystyle \\operatorname {atan2} (0,x)={\\begin{cases}0&\\qquad x>0\\\\{\\text{non\_defini}}&\\qquad x=0\\\\\\pi &\\qquad x<0\\\\\\end{cases}}}"
+  type: tex
+  error: 'Error: socket hang up'
+50826f18c8f6c80cd9c3f247371dc841f95cb845:
+  formula: '{\displaystyle {\ce {[NO^{+}][NO3{}^{-}]}}}'
+  type: chem
+  error:
+    - 'TeX parse error: Extra close brace or missing open brace'
+4efd7a7f6d6a3c49d5d3619b20b69bf1ac835b28:
+  formula: '{\displaystyle dE_{\text{Wärme}}=TdS.}'
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+453d91ed156a16f77494097c848ca965c6abac2e:
+  formula: "{\\displaystyle P\\left(x\\right)=D\\left(x\\right)s\\left(x\\right),{\\text{\_}}D\\left(x\\right)={\\frac {{e}^{x}}{{\\left({e}^{x}+1\\right)}^{2}}}}"
+  type: tex
+  error: 'Error: socket hang up'
+42085d7e3a1f16c085667980ee635ebb858213dd:
+  formula: "{\\displaystyle ({\\text{\_\_基\_\_本\_\_式\_\_\_\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+3ee6cb59deeb702205882ac3aa86b9c0e242474e:
+  formula: "{\\displaystyle {\\text{基\_\_本\_\_式\_\_\_\_\_}}}"
+  type: tex
+  error: 'Error: socket hang up'
+3de3b872b109d36e5f6f02aa4553607bd9b772b9:
+  formula: >-
+    1\ \mathrm {cm} ^{-1}\sim 1{,}24\cdot 10^{-4}\ \mathrm {eV} \sim 1{,}99\cdot
+    10^{-23}\ \mathrm {J} \cdot {\text{molekuła}}^{-1}\sim 12{,}0\ \mathrm {J}
+    \cdot \mathrm {mol} ^{-1}\sim 3\cdot 10^{10}\ \mathrm {Hz} 
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+3a93cf7d6278a59947dfd021c6ff64c5a538cf45:
+  formula: "{\\displaystyle {\\text{基\_\_本\_\_式\_\_\_}}}"
+  type: tex
+  error: 'Error: socket hang up'
+38239d2109f48fa1b531e74cff72c7dc1e800867:
+  formula: "{\\displaystyle {\\text{«\_}}T}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+37c86248b3dfd6ba24a76413cc2acb9bbe73a8b5:
+  formula: "{\\displaystyle {\\text{«\_}}g_{i}{\\text{\_»}}}"
+  type: tex
+  error: 'Error: socket hang up'
+379b3ad47991aaa0b0df08c65aba3374f1d554dc:
+  formula: >-
+    {\displaystyle {\begin{aligned}\sum _{k=i}^{n}(-1)^{n-k}{n \choose k}{k
+    \choose i}&=\sum _{k=i}^{n}(-1)^{n-k}{\frac
+    {n!k!}{k!(n-k)!i!(k-i)!}}\\&=\sum _{k=i}^{n}(-1)^{n-k}{\frac
+    {n!(n-i)!}{(n-i)!(n-k)!i!(k-i)!}}\\&={n \choose i}\sum
+    _{k=i}^{n}(-1)^{n-k}{n-i \choose n-k}\\&={n \choose i}(1-1)^{n-i}\qquad
+    \qquad \qquad \qquad \qquad {\text{(Formule du binôme)}}\\&=0^{n-i}\qquad
+    \qquad \qquad \qquad \qquad \qquad \qquad \qquad {\text{(Car }}\textstyle
+    {0^{0}=1}{\text{)}}\end{aligned}}}
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+36f2c0ed9701b5b054e77ce13aafde4f589c5435:
+  formula: "{\\displaystyle \\chi _{m}={\\frac {\\partial M}{\\partial H}}={\\frac {N_{\\text{A }}}{3k_{B}T}}\\mu _{\\mathrm {eff} }^{2}{\\text{\_ ;\_\_\_ and\_\_\_\_ }}\\mu _{\\mathrm {eff} }=g_{J}{\\sqrt {J(J+1)}}\\mu _{B}}"
+  type: tex
+  error: 'Error: socket hang up'
+35de62adbac0af9596a9134ddd0b34996f2cd94f:
+  formula: '{\displaystyle d\left(x,y\right)\leq b{\text{ für alle }}x,y\in T}'
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+34e1daf885c4ff2fd51bd270437f4848883e6b2b:
+  formula: "{\\displaystyle {\\bigl (}{\\text{基\_\_本\_\_式}}{\\bigr )}(}"
+  type: tex
+  error: 'Error: socket hang up'
+341174762a56f380e976c4ccdb8c628c8d7c5fd3:
+  formula: "{\\displaystyle ({\\text{基 \_本 \_式\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+323d727e7a550950b4b5f124533929cbf640f67a:
+  formula: "{\\displaystyle \\operatorname {atan2} (0,x)={\\begin{cases}0&\\qquad x>0\\\\{\\text{non\_défini}}&\\qquad x=0\\\\\\pi &\\qquad x<0\\\\\\end{cases}}}"
+  type: inline-tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+2f3f993fbf15ccdeeb5fb6e21514615a38f9eedb:
+  formula: "{\\displaystyle ({\\text{基 \_本 \_式 }})}"
+  type: tex
+  error: 'Error: socket hang up'
+29ad86c9f5ab23e4fc5c53f6ed454eb578f46061:
+  formula: "{\\displaystyle U_{\\text{seuil}}>0{\\text{ »\_;}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+28dca17ba36efd15f6bd67ef205243052a752263:
+  formula: "{\\displaystyle S_{1}{\\text{ et\_}}S_{2}}"
+  type: tex
+  error: 'Error: socket hang up'
+27ab46f4583e7b5fdd2d8ba48435b3d40393d0f2:
+  formula: '{\textstyle {\ce {^{3}_{infin}[Au2(\mu -NH2)(\mu _{3}-NH)2]Cl}}}'
+  type: chem
+  error:
+    - 'TeX parse error: Missing argument for \text'
+2645a51ebb9f93160181b697d534e4f544501320:
+  formula: "{\\displaystyle 150{kg}_{eviscerado}\\times \\mathrm {1,11} =\\mathrm {166,5} {\\text{\_}}{kg}_{vivo}}"
+  type: tex
+  error: 'Error: socket hang up'
+22eb0143138c51ae09865e1fd7e0b9286fdf2291:
+  formula: "{\\displaystyle ({\\text{\_\_基\_\_本\_\_式\_\_\_\_\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+20f7859a32c6aebc79875afa7fc77c7c73f59241:
+  formula: "{\\displaystyle B\\in {\\overline {\\mathcal {A}}}_{\\mu }\\iff {\\hbox{ il existe }}A_{1}\\in {\\mathcal {A}}{\\hbox{\_et }}A_{2}\\in {\\mathcal {A}}{\\hbox{ avec }}A_{1}\\subset B\\subset A_{2}{\\hbox{ et }}\\mu (A_{2}\\setminus A_{1})=0}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+1f2df55e88689115cc23049dae89ccebd82e908d:
+  formula: >-
+    {\displaystyle
+    1{\mbox{gúgolduplex}}={10}^{\mbox{gúgolplex}}={10}^{{10}^{{10}^{100}}}=10^{{10}^{10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000}}\,\!}
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+1e7f68b5ceff68ac2be09a5a04a0112f983384f9:
+  formula: "{\\displaystyle ({\\text{\_\_基\_\_本\_\_\_式\_\_\_\_}})}"
+  type: tex
+  error: 'Error: socket hang up'
+1809fdc5f4f15a242cc32816a08cd47fb00216cd:
+  formula: >-
+    {\displaystyle T_{\ce {B}}=[{\ce {B}}]+\sum _{i}{\ce {q_{i}\beta
+    _{i}[A]^{p_{i}}[B]^{q_{i}}}}}
+  type: chem
+  error:
+    - 'TeX parse error: Missing superscript or subscript argument'
+15d941b180bdde358e6a8cfdb6305b407b0c2176:
+  formula: "{\\displaystyle {\\text{«\_}}\\lambda _{0,\\,{\\text{vert}}}\\in \\left[0,500\\;\\mu m\\,{\\text{;}}\\,0,560\\;\\mu m\\right]{\\text{\_»}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+144ee7a9c247a21b31bcb975a275c4ac2d92a090:
+  formula: '{\displaystyle {\ce {^{[}Au2(\mu -NH2)(\mu 3-NH)2]Cl}}}'
+  type: chem
+  error:
+    - 'TeX parse error: Missing argument for \text'
+0f1a8cd3b044f83d55fd24833ab4f4ca5e617321:
+  formula: >-
+    {\displaystyle T_{\ce {H}}={\ce {[H]+\beta _{1}[A][H]+2\beta
+    _{2}[A][H]^{2}-K_{w}[H]^{-1}}}\,}
+  type: chem
+  error:
+    - 'TeX parse error: Missing superscript or subscript argument'
+0c3ef5747140de2fda08a8b935a0f4bf9eb4afda:
+  formula: "{\\displaystyle {\\text{«\_}}\\lambda _{0,\\,{\\text{rouge}}}\\in \\left[0,620\\;\\mu m\\,{\\text{;}}\\,0,780\\;\\mu m\\right]{\\text{\_»}}}"
+  type: tex
+  error: 'Error: socket hang up'
+0a9967088ac785b17718aaccc7d6619b2a867d6a:
+  formula: "{\\displaystyle \\quad {\\text{«\_}}{\\mathcal {E}}(M)={\\dfrac {\\left\\langle {\\mathcal {P}}_{({\\mathcal {S}}_{M})}\\right\\rangle }{S}}{\\text{\_».}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+0a3251ebe1c1e3006bc3659bc792d8213db9ab6e:
+  formula: '{\displaystyle {\ce {^{3}^{[}Au2(\mu -NH2)(\mu 3-NH)2]Cl}}}'
+  type: chem
+  error:
+    - 'TeX parse error: Missing argument for \text'
+09e6d75c918ce78f3a7b94fdb1b472092d6278ef:
+  formula: "{\\displaystyle {\\text{«\_}}\\lambda _{0,\\,{\\text{vert}}}\\in \\left[0,500\\;\\mu m\\,{\\text{;}}\\,0,560\\;\\mu m\\right]}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+09748bdba436a6e6413e0d00b09199df49c4f38c:
+  formula: "{\\displaystyle \\operatorname {atan2} (0,x)={\\begin{cases}0&\\qquad x>0\\\\{\\text{non\_défini}}&\\qquad x=0\\\\\\pi &\\qquad x<0\\\\\\end{cases}}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+074ac04147018889051a5cab0c13f3316543db34:
+  formula: "{\\displaystyle \\;{\\text{«\_}}\\!+\\!{\\text{\_»}}\\;}"
+  type: tex
+  error: 'Error: socket hang up'
+044a39e89a643bff7109230e5cc9d13487b3ad25:
+  formula: "{\\displaystyle ({\\text{基 \_本 \_式}})}"
+  type: tex
+  error: 'Error: socket hang up'
+0402b0e2e07775765c454159affd8477299ca546:
+  formula: "{\\displaystyle {\\text{«\_}}{\\mathcal {E}}(f,\\,x)=K\\,\\left[A(f,\\,x)\\right]^{2}}"
+  type: tex
+  error: '404: https://mediawiki.org/wiki/HyperSwitch/errors/not_found'
+03674bbb5f3ae704004d3bfa6360ee17c545d48f:
+  formula: "{\\displaystyle B\\in {\\mathcal {A}}_{\\mu }'\\iff {\\hbox{ il existe }}A_{1}\\in {\\mathcal {A}}{\\hbox{\_et }}A_{2}\\in {\\mathcal {A}}{\\hbox{ avec }}A_{1}\\subset B\\subset A_{2}{\\hbox{ et }}\\mu (A_{2}\\setminus A_{1})=0}"
+  type: tex
+  error: 'Error: socket hang up'
