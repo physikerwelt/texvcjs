@@ -2,10 +2,6 @@
 var assert = require('assert');
 var texvcjs = require('../');
 
-var fs = require('fs');
-var path = require('path');
-
-
 describe('Run test for all mathjax-texvc commands:', function () {
     this.timeout(0);
     // read test cases
