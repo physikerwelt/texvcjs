@@ -1,0 +1,19 @@
+90b7ed0ba211ebcf635bf9eb7c8e1d7efa838213:
+  q: \epsilon e=e\epsilon =e
+  type: tex
+aefa2d2c5177c00e97c1a1edd66d053bddc3357f:
+  q: '{\displaystyle \|e_{n}\|}'
+  type: tex
+0281d92c94571e4c60ef17672f685296af61f539:
+  q: >-
+    {\displaystyle \int |fgd\mu |\leq \left(\int |f|^{p}d\mu
+    \right)^{1/p}\left(\int |f|^{q}d\mu \right)^{1/q}}
+  type: tex
+aa3f102dd0f6b27924488901243827f47a053022:
+  q: '{\displaystyle {\ce {{H3AsO4(s)}+{H2O(l)}<->{H2AsO4^{-}(aq)}+{H3O+(aq)}K}}}'
+  type: chem
+2ed6c7d44d6912ac426b0ca9474e5d816c8f09a2:
+  q: >-
+    {\displaystyle I_{d}=\oint _{S}\mathbf {J} _{\rm {d}}\cdot {\rm {d}}\mathbf
+    {A} ,\,\!}
+  type: inline-tex
